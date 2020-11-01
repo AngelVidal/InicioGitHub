@@ -3,3 +3,11 @@ body{
 	font-family: "Arial";
 	color: blue;
 }
+
+header{
+	position: relative;
+	margin: 0px auto;
+	background-color: pink;
+	height: 50px;
+	width: 1000px;
+}
