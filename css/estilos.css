@@ -3,3 +3,12 @@ body{
 	font-family: "Arial";
 	color: blue;
 }
+
+section{
+	margin: auto;
+	position: relative;
+	width: 1000px;
+	text-align: left;
+	border: 1px solid blue;
+	padding: 10px;
+}
