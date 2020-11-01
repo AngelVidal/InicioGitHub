@@ -12,3 +12,21 @@ section{
 	border: 1px solid blue;
 	padding: 10px;
 }
+
+header{
+	position: relative;
+	margin: 0px auto;
+	background-color: pink;
+	color: white;
+	height: 50px;
+	width: 1000px;
+	border: 1px solid pink;
+}
+
+header span{
+	font-style: "Comic Sans";
+	font-weight: bold;
+	color: black;
+	font-size: 28px;
+
+}
